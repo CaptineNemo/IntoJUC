@@ -1,7 +1,7 @@
 # IntoJUC
 
 ## What we do
-The project aim to look into source code of classes in pacakage _java.util.concurrent_ in jdk, which usually called JUC.
+The project aim to look into source code of classes in pacakage _java.util.concurrent_ in jdk, which usually called JUC.  
 Here are the list:
 
 <table>
@@ -32,16 +32,16 @@ Here are the list:
 	    <td  rowspan="5">classes about lock</td>
 	</tr>
     <tr align="center">
-        <td><a  href ="lock/AQS.md">AQS</a></td>
+        <td><a  href ="lock/aqs/AQS.md">AQS</a></td>
 	</tr>
     <tr align="center">
-        <td><a  href ="lock/ReentrantLock.md">ReentrantLock</a></td>
+        <td><a  href ="lock/reentrantlock/ReentrantLock.md">ReentrantLock</a></td>
 	</tr>
     <tr align="center">
-        <td><a  href ="lock/Semaphore.md">Semaphore</a></td>
+        <td><a  href ="lock/semaphore/Semaphore.md">Semaphore</a></td>
 	</tr>
     <tr align="center">
-        <td><a  href ="lock/ReentrantReadWriteLock.md">ReentrantReadWriteLock</a></td>
+        <td><a  href ="lock/readwritelock/ReentrantReadWriteLock.md">ReentrantReadWriteLock</a></td>
 	</tr>
     <tr align="center">
 	    <td  rowspan="5">thread pool</td>
@@ -50,10 +50,10 @@ Here are the list:
 	    <td  rowspan="4">classes about thread pool</td>
 	</tr>
     <tr align="center">
-        <td><a  href ="threadpool/ThreadPoolExecutor.md">ThreadPoolExecutor</a></td>
+        <td><a  href ="threadpool/tpe/ThreadPoolExecutor.md">ThreadPoolExecutor</a></td>
 	</tr>
     <tr align="center">
-        <td><a  href ="threadpool/ForkJoinPool.md">ForkJoinPool</a></td>
+        <td><a  href ="threadpool/forkjoinpool/ForkJoinPool.md">ForkJoinPool</a></td>
 	</tr>
     <tr align="center">
         <td><a  href ="threadpool/FutureTask.md">FutureTask</a></td>
